@@ -5,3 +5,33 @@ HTML 5
 Basic HTML Forms
 Frameset (Legacy layout)
 Simple styling using HTML attributes
+
+🎯 Features
+
+✅ CSE Department Page
+Textbook dropdown menu
+Quantity entering option
+Submit button that redirects to order.html
+Displays the cost of books
+Simple HTML table layout
+
+✅ ECE Department Page
+
+Displays a list of subjects such as:
+Digital Circuits
+Signals and Systems
+Digital Communication
+
+✅ EEE Department Page
+
+Shows subject list like:
+Concepts in Electric Circuits
+Electrical Power
+Introduction to Electronic Engineering
+
+✅ Home Page
+
+Uses a frameset layout:
+Top navigation frame
+Left sidebar frame
+Right content display frame
