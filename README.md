@@ -37,3 +37,10 @@ Features
   Top navigation frame
   Left sidebar frame
   Right content display frame
+
+How to Run the Project
+
+ Download or clone the repository
+ Make sure all HTML files are in the same folder
+ Open home.html in any web browser
+ Navigate between pages using the frameset
