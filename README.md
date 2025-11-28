@@ -44,3 +44,14 @@ How to Run the Project
  Make sure all HTML files are in the same folder
  Open home.html in any web browser
  Navigate between pages using the frameset
+
+File Structure:
+project-folder/
+│── home.html    
+│── cse.html      
+│── ece.html      
+│── eee.html     
+│── top.html      
+│── left.html     
+│── right.html    
+└── order.html    
