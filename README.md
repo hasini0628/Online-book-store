@@ -46,12 +46,12 @@ How to Run the Project
  Navigate between pages using the frameset
 
 File Structure:
-project-folder/
-│── home.html    
-│── cse.html      
-│── ece.html      
-│── eee.html     
-│── top.html      
-│── left.html     
-│── right.html    
-└── order.html    
+  
+  │── home.html    
+  │── cse.html      
+  │── ece.html      
+  │── eee.html     
+  │── top.html      
+  │── left.html     
+  │── right.html    
+  └── order.html    
