@@ -39,7 +39,6 @@ How to Run the Project:
  Navigate between pages using the frameset
 
 File Structure:
-  
   │── home.html    
   │── cse.html      
   │── ece.html      
